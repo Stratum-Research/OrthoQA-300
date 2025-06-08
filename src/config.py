@@ -2,7 +2,7 @@ QUESTION_MODEL = "openai/gpt-3.5-turbo"
 ANSWER_MODEL = "openai/gpt-3.5-turbo"
 JUDGE_MODEL = "openai/gpt-4"
 
-NUM_QUESTIONS = 3
+NUM_QUESTIONS = 5
 
 PATHS = {
     "prompts": "outputs/prompts.json",

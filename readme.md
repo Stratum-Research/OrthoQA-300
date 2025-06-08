@@ -1,19 +1,36 @@
-# Ortho-Synthetic Dataset Generator
+# OrthoQA-300
 
-A modular pipeline for generating high-quality orthopedic surgery Q&A datasets using LLMs.
+**OrthoQA-300** is a synthetic question-answering dataset focused on orthopedic surgical procedures. Each entry simulates a natural patient-provider interaction, with the question posed from a patient's perspective and the answer generated in a clinician-style tone using LLMs. The dataset is structured by both procedure and thematic category (e.g., “What is it?”, “Recovery”, “Risks”), allowing for organized downstream evaluation and experimentation.
+
+This dataset was developed by **Stratum Research**, a lab focused on applied LLM systems for clinical reasoning.
+
+---
 
 ## Overview
 
-This pipeline generates synthetic orthopedic surgery questions and answers, then evaluates their quality using an LLM-as-a-Judge approach. The system is designed to create training data for medical AI applications.
+| Field       | Description                                               |
+|-------------|-----------------------------------------------------------|
+| `question`  | Patient-style question related to an orthopedic procedure |
+| `answer`    | Synthetic answer generated to simulate clinical language  |
+| `procedure` | Name of the orthopedic procedure (e.g. ACL Reconstruction)|
+| `theme`     | Thematic label (e.g. "Recovery", "What is it?", etc.)     |
 
-## Architecture
+The data was generated using prompt engineering and open LLMs (via OpenRouter), without human supervision or manual revision. No PHI or real patient data was used.
 
-The pipeline consists of four main stages:
+---
 
-1. **Prompt Generation**: Creates structured prompts for different procedures and themes
-2. **Question Generation**: Uses LLMs to generate relevant questions
-3. **Answer Generation**: Generates comprehensive answers to the questions
-4. **Quality Evaluation**: Uses LLM-as-a-Judge to score answers on accuracy, completeness, and hallucination detection
+## Example Entry
+
+```json
+{
+  "question": "Can you explain what ACL reconstruction surgery actually involves?",
+  "answer": "ACL reconstruction is a procedure where the torn ligament is replaced with a graft...",
+  "procedure": "ACL Reconstruction",
+  "theme": "What is it?"
+}
+
+
+
 
 ## Setup
 
