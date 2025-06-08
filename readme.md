@@ -66,6 +66,7 @@ Email: abdullahridwan [at] gmail [dot] com
   title   = {OrthoQA-300: A Structured Synthetic Dataset for Orthopedic Surgery Q&A},
   year    = {2024},
   url     = {https://huggingface.co/datasets/stratum-research/orthoqa-300},
+  doi     = {10.57967/hf/0000000},
   note    = {Version 1.0, Stratum Research}
 }
 ```
