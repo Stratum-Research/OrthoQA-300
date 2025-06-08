@@ -1,14 +1,14 @@
-QUESTION_MODEL = "deepseek/deepseek-r1-0528:free"
-ANSWER_MODEL = "deepseek/deepseek-r1-0528:free"
-JUDGE_MODEL = "deepseek/deepseek-r1-0528:free"
+QUESTION_MODEL = "openai/gpt-3.5-turbo"
+ANSWER_MODEL = "openai/gpt-3.5-turbo"
+JUDGE_MODEL = "openai/gpt-4"
 
-NUM_QUESTIONS = 1
+NUM_QUESTIONS = 3
 
 PATHS = {
-    "prompts": "generated_prompts.jsonl",
-    "questions": "generated_questions.json",
-    "answers": "generated_answers.json",
-    "judgments": "judged_results.json",
+    "prompts": "outputs/prompts.json",
+    "questions": "outputs/questions.json",
+    "answers": "outputs/answers.json",
+    "judgments": "outputs/judgments.json",
 }
 
 PROCEDURES = [
