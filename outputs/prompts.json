@@ -1,0 +1,302 @@
+[
+  {
+    "procedure": "ACL Reconstruction",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'ACL Reconstruction'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'ACL Reconstruction'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "ACL Reconstruction",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'ACL Reconstruction'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "ACL Reconstruction",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'ACL Reconstruction'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'ACL Reconstruction'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "ACL Reconstruction",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'ACL Reconstruction'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Hip Replacement",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Hip Replacement'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Hip Replacement'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Hip Replacement",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Hip Replacement'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Hip Replacement",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Hip Replacement'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Hip Replacement'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Hip Replacement",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Hip Replacement'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Knee Replacement",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Knee Replacement'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Knee Replacement'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Knee Replacement",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Knee Replacement'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Knee Replacement",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Knee Replacement'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Knee Replacement'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Total Knee Replacement",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Total Knee Replacement'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Rotator Cuff Repair'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Rotator Cuff Repair'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Rotator Cuff Repair'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Rotator Cuff Repair",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Rotator Cuff Repair'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Rotator Cuff Repair'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Rotator Cuff Repair",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Rotator Cuff Repair'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Meniscus Surgery",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Meniscus Surgery'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Meniscus Surgery'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Meniscus Surgery",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Meniscus Surgery'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Meniscus Surgery",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Meniscus Surgery'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Meniscus Surgery'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Meniscus Surgery",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Meniscus Surgery'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Labral Tear",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Labral Tear'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Labral Tear",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Labral Tear'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Labral Tear",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Labral Tear'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Labral Tear",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Labral Tear'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Labral Tear",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Labral Tear'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Labral Tear",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Labral Tear'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Shoulder Dislocation'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Shoulder Dislocation'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Shoulder Dislocation'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Shoulder Dislocation",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Shoulder Dislocation'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Shoulder Dislocation'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Shoulder Dislocation",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Shoulder Dislocation'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Arthritis Management",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Arthritis Management'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Arthritis Management",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Arthritis Management'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Arthritis Management",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Arthritis Management'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Arthritis Management",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Arthritis Management'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Arthritis Management",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Arthritis Management'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Arthritis Management",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Arthritis Management'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Carpal Tunnel Release'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Carpal Tunnel Release'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Carpal Tunnel Release'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Carpal Tunnel Release",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Carpal Tunnel Release'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Carpal Tunnel Release'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Carpal Tunnel Release",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Carpal Tunnel Release'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Spinal Fusion",
+    "theme": "What is it?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Spinal Fusion'. Generate 5 questions related to: 'What is it?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Spinal Fusion",
+    "theme": "What are the risks/complications?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Spinal Fusion'. Generate 5 questions related to: 'What are the risks/complications?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Spinal Fusion",
+    "theme": "What is the recovery like?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Spinal Fusion'. Generate 5 questions related to: 'What is the recovery like?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Spinal Fusion",
+    "theme": "When can I return to activities?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Spinal Fusion'. Generate 5 questions related to: 'When can I return to activities?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Spinal Fusion",
+    "theme": "What are the alternatives?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Spinal Fusion'. Generate 5 questions related to: 'What are the alternatives?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  },
+  {
+    "procedure": "Spinal Fusion",
+    "theme": "Do I need surgery or a second opinion?",
+    "prompt": "You are a patient speaking with an orthopedic surgeon about 'Spinal Fusion'. Generate 5 questions related to: 'Do I need surgery or a second opinion?'. Return as a JSON list of strings: [\"question1\", \"question2\", ...]"
+  }
+]

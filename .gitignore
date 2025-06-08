@@ -11,12 +11,6 @@ __pycache__/
 .Python
 *.so
 
-# Generated outputs
-*.json
-*.jsonl
-*.csv
-outputs/
-
 # IDE
 .vscode/
 .idea/

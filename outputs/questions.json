@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "What is an ACL reconstruction?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How is an ACL reconstruction performed?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the reasons for needing an ACL reconstruction?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the benefits of undergoing an ACL reconstruction?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is it?"
+  },
+  {
+    "question": "Are there any risks or complications associated with ACL reconstruction surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the risks of infection following ACL reconstruction surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the potential complications of blood clots after ACL reconstruction?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "How common is the risk of nerve damage during ACL reconstruction surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any risks of allergic reactions to the materials used during ACL reconstruction?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the potential long-term risks of arthritis developing after ACL reconstruction surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the typical timeline for recovery after ACL reconstruction surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What type of physical therapy or exercises will be involved in the recovery process?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Are there any specific restrictions or limitations during the recovery period?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "How much pain or discomfort should I expect during the recovery phase?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What are some signs or symptoms that indicate a complication during the recovery process?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I expect to return to normal activities after ACL reconstruction surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What factors will determine my return to activities timeline?",
+    "procedure": "ACL Reconstruction",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Will I need physical therapy before I can resume my usual activities?",
+    "procedure": "ACL Reconstruction",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Are there specific rehabilitation exercises I should focus on to help speed up my recovery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Is there a gradual process for returning to different levels of physical activity, and if so, what does that look like?",
+    "procedure": "ACL Reconstruction",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Are there any alternatives to ACL reconstruction surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the non-surgical options for treating a torn ACL?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Can physical therapy or bracing be effective alternatives to surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any new or experimental treatments that could be considered instead of surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the risks and benefits of choosing not to have ACL reconstruction surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Do I absolutely need surgery for my ACL injury, or are there other treatment options available?",
+    "procedure": "ACL Reconstruction",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Is a second opinion necessary before proceeding with ACL reconstruction surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What factors would indicate that I may not need surgery for my ACL injury?",
+    "procedure": "ACL Reconstruction",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "How can I be sure that surgery is the best option for my ACL injury, and not just a recommendation?",
+    "procedure": "ACL Reconstruction",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What risks are involved in ACL reconstruction surgery, and how do they compare to the risks of not having the surgery?",
+    "procedure": "ACL Reconstruction",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What is total hip replacement surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How does total hip replacement surgery work?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the common reasons for needing a total hip replacement?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the potential benefits of a total hip replacement?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "Are there any risks or complications associated with total hip replacement surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the common risks associated with total hip replacement surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any specific complications that I should be aware of for this procedure?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "How likely is it for complications to occur during or after the surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What steps can be taken to reduce the risks of complications during the recovery process?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any long-term risks or complications that I should consider before undergoing total hip replacement surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the typical timeline for recovery after a total hip replacement surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What kind of physical therapy will be required during the recovery process?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Will I need any assistive devices during the recovery period, such as a walker or cane?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Are there any specific activities or movements I should avoid during the recovery period?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "How long will it take before I can return to normal daily activities, such as driving or going back to work?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I return to walking without assistance?",
+    "procedure": "Total Hip Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I resume driving?",
+    "procedure": "Total Hip Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I return to work?",
+    "procedure": "Total Hip Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I start exercising again?",
+    "procedure": "Total Hip Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I engage in sexual activity?",
+    "procedure": "Total Hip Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What are the alternative treatment options to total hip replacement?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any non-surgical alternatives for hip pain relief?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Can physical therapy or other conservative treatments help delay or avoid the need for surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any newer or less invasive surgical procedures that could be an alternative to total hip replacement?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the risks and benefits of each alternative option compared to total hip replacement?",
+    "procedure": "Total Hip Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "How will I know if I truly need a total hip replacement surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Are there any alternative treatments or therapies that I should consider before opting for surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What are the risks and potential complications associated with total hip replacement surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Is it common for patients to seek a second opinion before undergoing this type of surgery?",
+    "procedure": "Total Hip Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What criteria should I consider when deciding whether to proceed with surgery or seek a second opinion?",
+    "procedure": "Total Hip Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What is a total knee replacement?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How is a total knee replacement surgery performed?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the reasons for needing a total knee replacement?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the potential benefits of a total knee replacement?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What is the recovery process like after a total knee replacement surgery?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the common risks associated with total knee replacement surgery?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any potential complications that could arise during or after the surgery?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "How do you mitigate the risks of infection following the procedure?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the likelihood of blood clots forming after the surgery and how is this managed?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any specific risks or complications that I, as a patient, should be particularly aware of?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the typical timeline for recovery after a total knee replacement?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "How soon after the surgery will I be able to start physical therapy?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Are there any specific exercises or activities I should avoid during the recovery period?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What kind of pain management options will be available to me during the recovery process?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Will I need any assistive devices, such as a cane or walker, during the recovery period?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I return to walking without assistance?",
+    "procedure": "Total Knee Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I start driving again?",
+    "procedure": "Total Knee Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I return to work?",
+    "procedure": "Total Knee Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I resume physical activities such as running or sports?",
+    "procedure": "Total Knee Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I expect to fully recover and return to my normal daily activities?",
+    "procedure": "Total Knee Replacement",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What are the non-surgical alternatives to total knee replacement?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any less invasive procedures that can be considered instead of total knee replacement?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Can physical therapy or other conservative treatments help improve my knee condition without surgery?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any newer technologies or treatments available that may be alternatives to total knee replacement?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the potential risks and benefits of each alternative treatment option compared to total knee replacement?",
+    "procedure": "Total Knee Replacement",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the specific reasons you recommend total knee replacement surgery for me?",
+    "procedure": "Total Knee Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Are there any alternative treatments or therapies that could potentially avoid the need for surgery?",
+    "procedure": "Total Knee Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Can you explain the risks and benefits of undergoing total knee replacement surgery in my case?",
+    "procedure": "Total Knee Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Would it be advisable for me to seek a second opinion from another orthopedic surgeon before making a decision?",
+    "procedure": "Total Knee Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "If I choose to pursue a second opinion, what information should I bring to the appointment to ensure an accurate assessment of my condition?",
+    "procedure": "Total Knee Replacement",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What is a rotator cuff?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What is a rotator cuff tear?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How is a rotator cuff repair performed?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the symptoms of a rotator cuff tear?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the potential causes of a rotator cuff tear?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the potential risks associated with rotator cuff repair surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any common complications that can occur during or after the procedure?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "How likely is it for the surgery to result in infection?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the risks of nerve damage during the surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any long-term complications that may arise from rotator cuff repair surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the expected timeline for recovery after rotator cuff repair surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What limitations or restrictions will I have during the recovery period?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Will physical therapy be necessary as part of the recovery process?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "How much pain can I expect during the recovery period and how will it be managed?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When will I be able to return to normal activities or sports after the surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I start driving again after the surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I return to work?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I start lifting weights or doing strength training?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I resume playing sports like tennis or golf?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I go swimming or participate in water activities?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What are the non-surgical alternatives to rotator cuff repair?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any alternative surgical procedures for rotator cuff repair?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Can physical therapy or other conservative treatments be effective alternatives to surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the risks and benefits of each alternative treatment option?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "How do the outcomes of alternative treatments compare to rotator cuff repair surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the specific indications that suggest I need rotator cuff repair surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Are there alternative treatment options to surgery that I should consider before making a decision?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Can you explain the potential risks and benefits of undergoing rotator cuff repair surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Do you recommend seeking a second opinion before moving forward with surgery?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "How will I know if I am making the right decision in choosing surgery over other treatment options?",
+    "procedure": "Rotator Cuff Repair",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What is a meniscus surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the common reasons for undergoing meniscus surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How is a meniscus surgery performed?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the potential risks and complications associated with meniscus surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What is the typical recovery process like after meniscus surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the potential risks of infection following meniscus surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the risks of blood clots developing after meniscus surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any potential complications related to anesthesia during the surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the risks of nerve damage during or after the surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any potential long-term complications that I should be aware of after meniscus surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the typical timeline for recovery after meniscus surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "How much pain can I expect during the recovery process?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Are there any specific exercises or physical therapy routines I should follow during recovery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Will I need to use crutches or a brace during the recovery period?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I expect to return to normal activities, such as walking or exercising, after the surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I start walking again after the surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I return to work or school?",
+    "procedure": "Meniscus Surgery",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I resume driving?",
+    "procedure": "Meniscus Surgery",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I start physical therapy?",
+    "procedure": "Meniscus Surgery",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I participate in sports or high-impact activities again?",
+    "procedure": "Meniscus Surgery",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What are the non-surgical alternatives to meniscus surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any lifestyle changes or physical therapy options that could help avoid surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Can I explore other treatment options such as injections or medications before considering surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any experimental treatments or procedures that could be considered instead of surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Is it possible to manage the symptoms of a meniscus tear without surgery, and if so, what are the risks and benefits of doing so?",
+    "procedure": "Meniscus Surgery",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the risks and benefits of meniscus surgery for my specific condition?",
+    "procedure": "Meniscus Surgery",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Are there any alternative treatments or therapies that I can try before considering surgery?",
+    "procedure": "Meniscus Surgery",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "How confident are you in the diagnosis that surgery is necessary for my meniscus injury?",
+    "procedure": "Meniscus Surgery",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Can you explain the reasons why you believe surgery is the best option for me, and how it will improve my condition?",
+    "procedure": "Meniscus Surgery",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Do you recommend seeking a second opinion before moving forward with surgery, and if so, do you have any recommendations for other orthopedic surgeons to consult?",
+    "procedure": "Meniscus Surgery",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What is a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What causes a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How is a labral tear diagnosed?",
+    "procedure": "Labral Tear",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the symptoms of a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What is it?"
+  },
+  {
+    "question": "Can a labral tear heal on its own?",
+    "procedure": "Labral Tear",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the risks of not treating a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the potential complications of surgery to repair a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any long-term risks associated with a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Can a labral tear lead to arthritis or other joint problems?",
+    "procedure": "Labral Tear",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any risks or complications specific to the type of surgery needed for a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the typical timeline for recovery from a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Are there any specific exercises or physical therapy routines that can help with the recovery process?",
+    "procedure": "Labral Tear",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Is surgery always necessary for treating a labral tear, or are there non-surgical options for recovery?",
+    "procedure": "Labral Tear",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What are the potential complications or setbacks that can occur during the recovery period?",
+    "procedure": "Labral Tear",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "How can I best manage pain and discomfort during the recovery process?",
+    "procedure": "Labral Tear",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I return to low-impact activities like walking or swimming?",
+    "procedure": "Labral Tear",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I return to more strenuous activities like running or playing sports?",
+    "procedure": "Labral Tear",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Are there any specific exercises or physical therapy I should do before returning to activities?",
+    "procedure": "Labral Tear",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What signs or symptoms should I watch for that may indicate I am not ready to return to activities?",
+    "procedure": "Labral Tear",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Is there a gradual progression plan I should follow when returning to activities to prevent re-injury?",
+    "procedure": "Labral Tear",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What are the non-surgical treatment options for a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any minimally invasive procedures that can help with a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Can physical therapy be an effective alternative to surgery for a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any experimental treatments or clinical trials that I can consider for my labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the potential risks and benefits of each alternative treatment option for a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the potential risks and benefits of surgery for treating my labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Are there any non-surgical treatment options that I could consider before deciding on surgery?",
+    "procedure": "Labral Tear",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "How confident are you in the diagnosis of a labral tear, and do you recommend seeking a second opinion?",
+    "procedure": "Labral Tear",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What criteria do you use to determine if surgery is necessary for a labral tear?",
+    "procedure": "Labral Tear",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Can you provide me with information on the success rates of surgery versus conservative treatment for labral tears?",
+    "procedure": "Labral Tear",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What causes a shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the symptoms of a shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How is a shoulder dislocation diagnosed?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is it?"
+  },
+  {
+    "question": "Is a shoulder dislocation a common injury?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is it?"
+  },
+  {
+    "question": "Can a shoulder dislocation happen more than once?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the risks of recurrent shoulder dislocations?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What complications can arise from a shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any long-term effects of repeated shoulder dislocations?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "How likely is nerve or blood vessel damage during a shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the risks of developing arthritis in the shoulder after a dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the typical timeline for recovery from a shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Are there any specific exercises or physical therapy that can help with recovery?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What are the potential complications or risks during the recovery process?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Will I need to wear a sling or brace during the recovery period?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "How long will it be before I can return to normal activities or sports after a shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I return to playing sports like basketball or tennis?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Is there a specific timeline for when I can start lifting weights again?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Can I participate in activities like swimming or kayaking?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I resume my daily exercise routine?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Are there any specific precautions I should take when returning to physical activities?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What are the non-surgical alternatives for treating shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any exercises or physical therapy options that can help prevent future shoulder dislocations?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any alternative treatments or therapies, such as acupuncture or chiropractic care, that can help with shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the risks and benefits of each alternative treatment option?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any lifestyle changes or modifications that can help reduce the risk of shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Do I need surgery for my shoulder dislocation, or are there non-surgical treatment options available?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What are the potential risks and benefits of opting for surgery to treat my shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "How will I know if surgery is the best option for my specific case of shoulder dislocation?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Is it common for patients to seek a second opinion before undergoing shoulder dislocation surgery?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What criteria should I consider when deciding whether to get a second opinion on my shoulder dislocation treatment plan?",
+    "procedure": "Shoulder Dislocation",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What exactly is arthritis?",
+    "procedure": "Arthritis Management",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How does arthritis affect the joints?",
+    "procedure": "Arthritis Management",
+    "theme": "What is it?"
+  },
+  {
+    "question": "Are there different types of arthritis?",
+    "procedure": "Arthritis Management",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the common symptoms of arthritis?",
+    "procedure": "Arthritis Management",
+    "theme": "What is it?"
+  },
+  {
+    "question": "Is arthritis a progressive condition?",
+    "procedure": "Arthritis Management",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the risks of developing osteoarthritis in other joints?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any complications associated with long-term use of arthritis medications?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the risks of infection following joint replacement surgery?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any potential complications from cortisone injections for arthritis pain?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the risks of developing osteoporosis as a complication of arthritis?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the typical timeline for recovery from arthritis management?",
+    "procedure": "Arthritis Management",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What are some common factors that can affect the speed of recovery?",
+    "procedure": "Arthritis Management",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Are there any specific activities or exercises that can help speed up the recovery process?",
+    "procedure": "Arthritis Management",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What are some signs that indicate that the recovery is going well?",
+    "procedure": "Arthritis Management",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What should I do if I experience setbacks or delays in my recovery?",
+    "procedure": "Arthritis Management",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I return to low-impact activities like walking or swimming?",
+    "procedure": "Arthritis Management",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I return to higher-impact activities like running or tennis?",
+    "procedure": "Arthritis Management",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What factors will determine when I can return to my normal activities?",
+    "procedure": "Arthritis Management",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Are there any specific exercises or physical therapy routines I should follow before returning to activities?",
+    "procedure": "Arthritis Management",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Should I be concerned about any long-term effects on my joints if I return to activities too soon?",
+    "procedure": "Arthritis Management",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What are the non-surgical treatment options for managing arthritis?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any alternative therapies or complementary treatments that can help alleviate arthritis symptoms?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What lifestyle changes can I make to help manage my arthritis without surgery?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any experimental or cutting-edge treatments available for arthritis that I should consider?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Can you discuss the potential risks and benefits of each alternative treatment option for arthritis?",
+    "procedure": "Arthritis Management",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Do you believe surgery is necessary for my arthritis management?",
+    "procedure": "Arthritis Management",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Are there any non-surgical treatment options we can explore before considering surgery?",
+    "procedure": "Arthritis Management",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What are the potential risks and benefits of undergoing surgery for my arthritis?",
+    "procedure": "Arthritis Management",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Would you recommend seeking a second opinion before making a decision about surgery?",
+    "procedure": "Arthritis Management",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "How can I determine if surgery is the best option for my arthritis management?",
+    "procedure": "Arthritis Management",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What is carpal tunnel release?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How is carpal tunnel release performed?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the symptoms that may indicate the need for carpal tunnel release?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is it?"
+  },
+  {
+    "question": "Are there any risks or complications associated with carpal tunnel release?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What is the recovery process like after carpal tunnel release?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the common risks associated with carpal tunnel release surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any potential complications that could arise from the surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "How likely is it to experience nerve damage during the procedure?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the risks of infection following the surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any long-term risks or complications that I should be aware of?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the typical recovery timeline for Carpal Tunnel Release surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What kind of post-operative pain management can I expect during recovery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Are there any specific exercises or therapy I should do during the recovery period?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Will I need to wear a splint or brace after the surgery, and for how long?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I expect to return to my normal daily activities and work following the surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I return to work after the Carpal Tunnel Release surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I resume driving after the Carpal Tunnel Release surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I start typing or using the computer after the Carpal Tunnel Release surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I begin lifting weights or participating in sports after the Carpal Tunnel Release surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I expect to have full range of motion and strength in my hand after the Carpal Tunnel Release surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "Are there any non-surgical alternatives to carpal tunnel release?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What other treatment options are available besides surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Can physical therapy or splinting help alleviate carpal tunnel symptoms?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any alternative procedures or techniques that can be used instead of carpal tunnel release?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any lifestyle changes or modifications that can help improve carpal tunnel symptoms without surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "What are the potential risks and benefits of having Carpal Tunnel Release surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Are there alternative treatments or therapies that I can try before considering surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "How do you determine if surgery is necessary for my specific case?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Can you explain the success rate of Carpal Tunnel Release surgery and the likelihood of it relieving my symptoms?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Would you recommend seeking a second opinion before making a decision about surgery?",
+    "procedure": "Carpal Tunnel Release",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What is spinal fusion surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is it?"
+  },
+  {
+    "question": "How does spinal fusion help with back pain?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What conditions can spinal fusion treat?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the different types of spinal fusion procedures?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What is the recovery process like after spinal fusion surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is it?"
+  },
+  {
+    "question": "What are the common risks associated with spinal fusion surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any potential complications that could arise during the surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "How likely is it for nerve damage to occur as a result of the procedure?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What are the risks of infection following spinal fusion surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "Are there any long-term complications that I should be aware of after undergoing spinal fusion?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the risks/complications?"
+  },
+  {
+    "question": "What is the typical length of the recovery period after spinal fusion surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "What restrictions or limitations will I have during the recovery period?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "Will I need to attend physical therapy as part of my recovery process?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "How much pain and discomfort should I expect during the recovery period?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When will I be able to return to work or normal daily activities after spinal fusion surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "What is the recovery like?"
+  },
+  {
+    "question": "When can I return to work after the spinal fusion surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I start driving again after the surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I start physical therapy after the surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I resume exercising and weightlifting?",
+    "procedure": "Spinal Fusion",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "When can I engage in sexual activity after the surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "When can I return to activities?"
+  },
+  {
+    "question": "What are the non-surgical alternatives to spinal fusion?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any less invasive procedures that could be considered instead of spinal fusion?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Can physical therapy or other conservative treatments be effective in treating my condition without resorting to spinal fusion?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Are there any experimental or emerging treatments that could be an alternative to spinal fusion?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Is there a possibility that my condition may improve on its own without the need for spinal fusion?",
+    "procedure": "Spinal Fusion",
+    "theme": "What are the alternatives?"
+  },
+  {
+    "question": "Do I need surgery right away, or is there a possibility of trying non-surgical treatments first?",
+    "procedure": "Spinal Fusion",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "What are the risks and benefits of undergoing the spinal fusion surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Are there any alternative treatments or procedures that I could consider before deciding on surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "Do you recommend seeking a second opinion from another orthopedic surgeon before moving forward with the surgery?",
+    "procedure": "Spinal Fusion",
+    "theme": "Do I need surgery or a second opinion?"
+  },
+  {
+    "question": "How will I know if surgery is the best option for my specific condition?",
+    "procedure": "Spinal Fusion",
+    "theme": "Do I need surgery or a second opinion?"
+  }
+]
