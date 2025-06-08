@@ -1,7 +1,7 @@
 ![banner for project](assets/github%20banner.png)
 # OrthoQA-300
 
-**OrthoQA-300** is a structured, synthetic dataset of patient-provider style question-and-answer (QA) pairs focused on orthopedic surgery. Each entry simulates a realistic clinical interaction, with patient-style questions and LLM-generated provider-style answers.
+**OrthoQA-300** is a structured, synthetic dataset of 300 patient-provider style question-and-answer (QA) pairs focused on orthopedic surgery. Each entry simulates a realistic clinical interaction, with patient-style questions and LLM-generated provider-style answers.
 Questions are grouped by procedure (e.g., ACL Reconstruction, Total Hip Replacement) and theme (e.g., "What is it?", "Recovery", "Risks"). This structured format supports use in language model evaluation, prompt engineering, and clinical NLP prototyping.
 
 **Table of Contents**
